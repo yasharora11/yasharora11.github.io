@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: Yash arora
 permalink: /
-subtitle: Postdoctoral Researcher · Safe Reinforcement Learning · Machine Learning & Optimization
+subtitle: Postdoctoral Researcher
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yash_arora.jpg
   image_circular: false
   more_info: >
     <p>School of Vehicle and Mobility</p>
