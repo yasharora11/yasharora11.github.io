@@ -13,7 +13,7 @@ profile:
     <p>Tsinghua University</p>
     <p>Beijing, China</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -22,7 +22,7 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---
