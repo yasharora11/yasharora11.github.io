@@ -2,7 +2,7 @@
 layout: about
 title: Yash arora
 permalink: /
-subtitle: "**श्रमं विना न किमपि साध्यम्**"
+subtitle: 
 
 profile:
   align: right
@@ -27,6 +27,14 @@ latest_posts:
   limit: 3
 ---
 
-I am a **Postdoctoral Researcher at the School of Vehicle and Mobility, Tsinghua University**, where my current research focuses on **Safe Reinforcement Learning**.
-I received my **Ph.D. in Mathematics from the Indian Institute of Technology Roorkee (IIT Roorkee)** in 2026. During my doctoral research, I worked on optimization-based machine learning methods, particularly **support vector machines, robust learning, classification, and regression**.
-I am always interested in discussing research ideas and potential collaborations in reinforcement learning, machine learning, and optimization.
+I am currently a **Postdoctoral Researcher at the School of Vehicle and Mobility, Tsinghua University**, where my research focuses on **Safe Reinforcement Learning**.
+I received my **Ph.D. in Mathematics from the Indian Institute of Technology Roorkee (IIT Roorkee) in January 2026**, where I worked under the supervision of **Prof. S. K. Gupta** on optimization-based machine learning methods, particularly support vector machines, robust learning, classification, and regression.
+I am always happy to discuss research ideas and explore potential collaborations in **reinforcement learning, machine learning, and optimization.**
+
+<br>
+
+<div align="center">
+  <span style="font-size: 1.15rem;">श्रमं विना न किमपि साध्यम्</span><br>
+  <em>Nothing can be achieved without hard work.</em><br>
+  <small>— IIT Roorkee</small>
+</div>
