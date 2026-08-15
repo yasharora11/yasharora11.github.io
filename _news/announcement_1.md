@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Joined Tsinghua University as a Postdoctoral Researcher
