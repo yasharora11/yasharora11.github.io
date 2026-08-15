@@ -35,6 +35,5 @@ I am always happy to discuss research ideas and explore potential collaborations
 
 <div align="center">
   <span style="font-size: 1.15rem;">श्रमं विना न किमपि साध्यम्</span><br>
-  <em>Nothing can be achieved without hard work.</em><br>
   <small>— IIT Roorkee</small>
 </div>
