@@ -2,7 +2,7 @@
 layout: about
 title: Yash arora
 permalink: /
-subtitle: Postdoctoral Researcher
+subtitle: श्रमं विना न किमपि साध्यम्
 
 profile:
   align: right
