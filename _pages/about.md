@@ -2,7 +2,7 @@
 layout: about
 title: Yash arora
 permalink: /
-subtitle: श्रमं विना न किमपि साध्यम्
+subtitle: **श्रमं विना न किमपि साध्यम्**
 
 profile:
   align: right
