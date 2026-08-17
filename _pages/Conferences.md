@@ -16,8 +16,6 @@ Presented the paper:
 
 *“Generalized Bell Fuzzy Proximal Twin Support Vector Machine for Multi-Class Classification”*
 
-**Presentation:** Paper presentation  
-**Support:** IEEE Computational Intelligence Society (CIS) Travel Grant
 
 ---
 
@@ -28,9 +26,6 @@ Presented the paper:
 
 *“Improved Intuitionistic Fuzzy Least Square Twin Support Vector Machine for Class Imbalance Learning”*
 
-**Presentation:** Paper presentation  
-**Support:** Financial assistance from the Anusandhan National Research Foundation (ANRF)
-
 ---
 
 ### International Conference on Statistical Learning (ICSL-2025)
@@ -40,7 +35,6 @@ Presented the paper:
 
 *“Multi-Category Weighted Least Square Twin SVM with Fuzzy Hyperplane”*
 
-**Presentation:** Paper presentation
 
 ---
 
@@ -67,7 +61,6 @@ Presented the paper:
 
 *“Intuitionistic Fuzzy Twin Proximal SVM with Fuzzy Hyperplane and its Application in EEG Signal Classification”*
 
-**Presentation:** Paper presentation
 
 ---
 
@@ -80,7 +73,6 @@ Presented the poster:
 
 *“Intuitionistic Fuzzy Twin Proximal SVM with Fuzzy Hyperplane and its Application in EEG Signal Classification”*
 
-**Presentation:** Poster
 
 ---
 
@@ -91,9 +83,6 @@ Presented the paper:
 
 *“Intuitionistic Fuzzy Twin Proximal SVM with Fuzzy Hyperplane”*
 
-**Presentation:** Paper presentation  
-**Support:** Financial support for conference registration
-
 ---
 
 ### International Symposium on Applied Optimization and Game Theoretic Models for Decision Making
@@ -103,7 +92,6 @@ Presented the paper:
 
 *“Huberized Twin Support Vector Machine for Binary Classification Problems”*
 
-**Presentation:** Paper presentation
 
 ---
 
@@ -115,8 +103,6 @@ Presented the paper:
 Presented the paper:
 
 *“Huberized Twin Support Vector Machine for Binary Classification Problems”*
-
-**Presentation:** Paper presentation
 
 ---
 
