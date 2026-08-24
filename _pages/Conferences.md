@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /conferences/
-title: Conferences
+permalink: /Activity/
+title: Activity
 nav: true
-nav_order: 4
+nav_order: 5
 
 ---
 
