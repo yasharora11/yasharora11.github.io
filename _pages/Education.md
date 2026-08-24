@@ -3,7 +3,7 @@ layout: page
 title: Education
 permalink: /education/
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## Doctor of Philosophy (Ph.D.) in Mathematics
