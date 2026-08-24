@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Awards
-permalink: /awards/
+title: Experience
+permalink: /Experience/
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 ## 2025
