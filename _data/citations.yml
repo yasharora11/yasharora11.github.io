@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-26'
 papers:
   9UrocPgAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Brain tumor classification using weighted least square twin support vector machine with fuzzy hyperplane
     year: '2024'
   9UrocPgAAAAJ:u5HHmVD_uO8C:
-    citations: 15
+    citations: 16
     title: Intuitionistic fuzzy twin proximal SVM with fuzzy hyperplane and its application in EEG signal classification
     year: '2024'
   9UrocPgAAAAJ:zYLM7Y9cAGgC:
